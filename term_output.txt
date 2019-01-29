@@ -1,0 +1,39 @@
+K:1  P:1 Corrects:3754  Accuracy: 0.981951
+K:1  P:2 Corrects:3763  Accuracy: 0.984306
+K:1  P:3 Corrects:3762  Accuracy: 0.984044
+K:1  P:4 Corrects:3756  Accuracy: 0.982475
+K:2  P:1 Corrects:3734  Accuracy: 0.976720
+K:2  P:2 Corrects:3746  Accuracy: 0.979859
+K:2  P:3 Corrects:3746  Accuracy: 0.979859
+K:2  P:4 Corrects:3744  Accuracy: 0.979336
+K:3  P:1 Corrects:3765  Accuracy: 0.984829
+K:3  P:2 Corrects:3769  Accuracy: 0.985875
+K:3  P:3 Corrects:3772  Accuracy: 0.986660
+K:3  P:4 Corrects:3767  Accuracy: 0.985352
+K:4  P:1 Corrects:3753  Accuracy: 0.981690
+K:4  P:2 Corrects:3762  Accuracy: 0.984044
+K:4  P:3 Corrects:3759  Accuracy: 0.983259
+K:4  P:4 Corrects:3759  Accuracy: 0.983259
+K:5  P:1 Corrects:3760  Accuracy: 0.983521
+K:5  P:2 Corrects:3766  Accuracy: 0.985090
+K:5  P:3 Corrects:3771  Accuracy: 0.986398
+K:5  P:4 Corrects:3769  Accuracy: 0.985875
+K:6  P:1 Corrects:3748  Accuracy: 0.980382
+K:6  P:2 Corrects:3764  Accuracy: 0.984567
+K:6  P:3 Corrects:3769  Accuracy: 0.985875
+K:6  P:4 Corrects:3761  Accuracy: 0.983782
+K:7  P:1 Corrects:3745  Accuracy: 0.979597
+K:7  P:2 Corrects:3766  Accuracy: 0.985090
+K:7  P:3 Corrects:3766  Accuracy: 0.985090
+K:7  P:4 Corrects:3760  Accuracy: 0.983521
+K:8  P:1 Corrects:3735  Accuracy: 0.976981
+K:8  P:2 Corrects:3762  Accuracy: 0.984044
+K:8  P:3 Corrects:3763  Accuracy: 0.984306
+K:8  P:4 Corrects:3755  Accuracy: 0.982213
+K:9  P:1 Corrects:3741  Accuracy: 0.978551
+K:9  P:2 Corrects:3765  Accuracy: 0.984829
+K:9  P:3 Corrects:3759  Accuracy: 0.983259
+K:9  P:4 Corrects:3758  Accuracy: 0.982998
+
+Optimum Values:
+ K:3 P:3 Accuracy:0.986660
